@@ -1,0 +1,17 @@
+{
+  "name": "bbGrid",
+  "main": ["bbGrid.css","bbGrid.js"],
+  "version": "0.8.5",
+  "homepage": "https://github.com/GeorgeXu/bbGrid",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
